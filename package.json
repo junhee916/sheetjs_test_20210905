@@ -1,0 +1,24 @@
+{
+  "name": "sheetjs_test_20210905",
+  "version": "1.0.0",
+  "description": "sheetjs_test_20210905",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junhee916/sheetjs_test_20210905.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junhee916/sheetjs_test_20210905/issues"
+  },
+  "homepage": "https://github.com/junhee916/sheetjs_test_20210905#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "xlsx": "^0.17.1"
+  }
+}
